@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Medhanit!
+# 👋 Hi there, I'm Medhanit
 
 I'm a passionate Frontend and Backend Developer skilled in building web applications with modern tools and languages.
 
